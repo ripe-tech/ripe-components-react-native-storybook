@@ -7,6 +7,6 @@ The storybook for the [RIPE Components for React Native](https://github.com/ripe
 ```bash
 npm run wml-link-components
 npm run wml
-npm run start storybook
+npm run storybook
 npm run android # or ios
 ```
