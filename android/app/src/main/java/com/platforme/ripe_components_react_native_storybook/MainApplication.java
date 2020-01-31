@@ -1,4 +1,4 @@
-package com.platforme.ripe_components_react_native_app;
+package com.platforme.ripe_components_react_native_storybook;
 
 import android.app.Application;
 

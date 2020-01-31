@@ -1,4 +1,4 @@
-package com.platforme.ripe_components_react_native_app;
+package com.platforme.ripe_components_react_native_storybook;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "ripe-components-react-native-app";
+        return "ripe-components-react-native-storybook";
     }
 }

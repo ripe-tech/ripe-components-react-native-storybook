@@ -1,5 +1,5 @@
 {
-    "name": "ripe-components-react-native-app",
+    "name": "ripe-components-react-native-storybook",
     "version": "0.0.1",
     "private": true,
     "scripts": {
@@ -57,7 +57,9 @@
     },
     "config": {
         "react-native-storybook-loader": {
-            "searchDir": ["./node_modules/ripe-components-react-native/react/"],
+            "searchDir": [
+                "./node_modules/ripe-components-react-native/react/"
+            ],
             "pattern": "**/*.stories.js",
             "outputFile": "./temp/storyLoader.js"
         }

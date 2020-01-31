@@ -24,8 +24,8 @@ node_modules/**/*
 
 /ios/Pods
 /ios/build
-/ios/ripe-components-react-native-app.xcworkspace
-/ios/ripe-components-react-native-app.xcodeproj/project.xcworkspace
+/ios/ripe-components-react-native-storybook.xcworkspace
+/ios/ripe-components-react-native-storybook.xcodeproj/project.xcworkspace
 
 /android/.idea
 /android/.gradle
