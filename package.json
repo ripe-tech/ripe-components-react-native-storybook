@@ -29,6 +29,7 @@
         "react-native-reanimated": "^1.7.0",
         "react-native-safe-area-context": "^0.6.2",
         "react-native-screens": "^2.0.0-alpha.32",
+        "react-native-svg": "^11.0.1",
         "react-navigation": "^4.0.10",
         "react-navigation-stack": "^2.0.16",
         "ripe-components-react-native": "^0.1.1"
@@ -46,6 +47,7 @@
         "@storybook/react-native-server": "^5.3.9",
         "babel-jest": "^25.1.0",
         "babel-loader": "^8.0.6",
+        "babel-plugin-inline-import": "^3.0.0",
         "eslint": "^6.8.0",
         "jest": "^25.1.0",
         "metro-react-native-babel-preset": "^0.58.0",
