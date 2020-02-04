@@ -23,12 +23,14 @@
     "dependencies": {
         "@react-native-community/async-storage": "^1.7.1",
         "@react-native-community/masked-view": "^0.1.6",
+        "babel-plugin-inline-import": "^3.0.0",
         "react": "^16.12.0",
         "react-native": "^0.61.5",
         "react-native-gesture-handler": "^1.5.3",
         "react-native-reanimated": "^1.7.0",
         "react-native-safe-area-context": "^0.6.2",
         "react-native-screens": "^2.0.0-alpha.32",
+        "react-native-svg": "^11.0.1",
         "react-navigation": "^4.0.10",
         "react-navigation-stack": "^2.0.16",
         "ripe-components-react-native": "^0.1.1"
