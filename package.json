@@ -23,7 +23,6 @@
     "dependencies": {
         "@react-native-community/async-storage": "^1.7.1",
         "@react-native-community/masked-view": "^0.1.6",
-        "babel-plugin-inline-import": "^3.0.0",
         "react": "^16.12.0",
         "react-native": "^0.61.5",
         "react-native-gesture-handler": "^1.5.3",
@@ -48,6 +47,7 @@
         "@storybook/react-native-server": "^5.3.9",
         "babel-jest": "^25.1.0",
         "babel-loader": "^8.0.6",
+        "babel-plugin-inline-import": "^3.0.0",
         "eslint": "^6.8.0",
         "jest": "^25.1.0",
         "metro-react-native-babel-preset": "^0.58.0",
