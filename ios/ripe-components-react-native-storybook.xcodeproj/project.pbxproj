@@ -13,6 +13,12 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		778DA82106C5561FD67A2B5E /* libPods-ripeComponentsReactNativeStorybookTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 091504F64F02DD6A55E225D5 /* libPods-ripeComponentsReactNativeStorybookTests.a */; };
+		C2D5260323EB5ECC00DFAE14 /* Soleil-Bold-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75423EB59EE00B8FF2D /* Soleil-Bold-Italic.ttf */; };
+		C2D5260423EB5ECC00DFAE14 /* Soleil-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75523EB59EE00B8FF2D /* Soleil-Bold.ttf */; };
+		C2D5260523EB5ECC00DFAE14 /* Soleil-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75623EB59EE00B8FF2D /* Soleil-Book.ttf */; };
+		C2D5260623EB5ECC00DFAE14 /* Soleil-Light-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75723EB59EE00B8FF2D /* Soleil-Light-Italic.ttf */; };
+		C2D5260723EB5ECC00DFAE14 /* Soleil-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75823EB59EF00B8FF2D /* Soleil-Light.ttf */; };
+		C2D5260823EB5ECC00DFAE14 /* Soleil-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75923EB59EF00B8FF2D /* Soleil-Regular.ttf */; };
 		D63A495A51202D14904B0E99 /* libPods-ripeComponentsReactNativeStorybook.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE58993AB8D493FEB8EB5618 /* libPods-ripeComponentsReactNativeStorybook.a */; };
 /* End PBXBuildFile section */
 
@@ -279,8 +285,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2D5260323EB5ECC00DFAE14 /* Soleil-Bold-Italic.ttf in Resources */,
+				C2D5260423EB5ECC00DFAE14 /* Soleil-Bold.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				C2D5260623EB5ECC00DFAE14 /* Soleil-Light-Italic.ttf in Resources */,
+				C2D5260523EB5ECC00DFAE14 /* Soleil-Book.ttf in Resources */,
+				C2D5260823EB5ECC00DFAE14 /* Soleil-Regular.ttf in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				C2D5260723EB5ECC00DFAE14 /* Soleil-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
