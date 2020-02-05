@@ -42,6 +42,10 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "ripe-components-react-native-storybook/main.m"; sourceTree = "<group>"; };
 		13E10C7B35775C5825CB0AE1 /* Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; sourceTree = "<group>"; };
 		1492453DAD410F095AB422CA /* Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4E9AB32623EB3CAB003F2A57 /* Soleil-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Bold.otf"; path = "../assets/fonts/Soleil-Bold.otf"; sourceTree = "<group>"; };
+		4E9AB32723EB3CAB003F2A57 /* Soleil-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Light.otf"; path = "../assets/fonts/Soleil-Light.otf"; sourceTree = "<group>"; };
+		4E9AB32823EB3CAB003F2A57 /* Soleil-Bold-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Bold-Italic.ttf"; path = "../assets/fonts/Soleil-Bold-Italic.ttf"; sourceTree = "<group>"; };
+		4E9AB32923EB3CAB003F2A57 /* Soleil-Light-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Light-Italic.ttf"; path = "../assets/fonts/Soleil-Light-Italic.ttf"; sourceTree = "<group>"; };
 		7939965EF52E66ECA48B6973 /* Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; sourceTree = "<group>"; };
 		8F8D03A69ECF0BD10F4F8C8A /* Pods-ripe-components-react-native-storybook.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook.debug.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook/Pods-ripe-components-react-native-storybook.debug.xcconfig"; sourceTree = "<group>"; };
 		92C564B30EBA5D18E8666C07 /* Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook-tvOSTests/Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -49,13 +53,11 @@
 		A4EB77791021CF479668BF32 /* Pods-ripeComponentsReactNativeStorybook.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybook.debug.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybook/Pods-ripeComponentsReactNativeStorybook.debug.xcconfig"; sourceTree = "<group>"; };
 		A7649EDA279B7B3E5164E5A6 /* Pods-ripe-components-react-native-storybook-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook-tvOS.release.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook-tvOS/Pods-ripe-components-react-native-storybook-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		AF6A7868984B5A72CAE88F2D /* Pods-ripeComponentsReactNativeStorybook.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybook.release.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybook/Pods-ripeComponentsReactNativeStorybook.release.xcconfig"; sourceTree = "<group>"; };
-		B11EEA2BA37F48098EAB3768 /* Effra-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Effra-Bold.ttf"; path = "../components/assets/Effra-Bold.ttf"; sourceTree = "<group>"; };
 		B6700984955DF198756EF571 /* Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; sourceTree = "<group>"; };
 		DE58993AB8D493FEB8EB5618 /* libPods-ripeComponentsReactNativeStorybook.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ripeComponentsReactNativeStorybook.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2374381C88171FFE393E58C /* libPods-ripe-components-react-native-storybook-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ripe-components-react-native-storybook-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		FC0B689E43254FEEAF4FED08 /* Effra-Heavy.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Effra-Heavy.ttf"; path = "../components/assets/Effra-Heavy.ttf"; sourceTree = "<group>"; };
 		FDE3EB8F81FE48844C0124E5 /* Pods-ripe-components-react-native-storybook-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook-tvOSTests/Pods-ripe-components-react-native-storybook-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -126,8 +128,10 @@
 		515CBCB2D5EE4BD4AAE521A6 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				B11EEA2BA37F48098EAB3768 /* Effra-Bold.ttf */,
-				FC0B689E43254FEEAF4FED08 /* Effra-Heavy.ttf */,
+				4E9AB32823EB3CAB003F2A57 /* Soleil-Bold-Italic.ttf */,
+				4E9AB32623EB3CAB003F2A57 /* Soleil-Bold.otf */,
+				4E9AB32923EB3CAB003F2A57 /* Soleil-Light-Italic.ttf */,
+				4E9AB32723EB3CAB003F2A57 /* Soleil-Light.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";

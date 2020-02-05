@@ -55,17 +55,10 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>Effra-Bold.ttf</string>
-		<string>Effra-BoldItalic.ttf</string>
-		<string>Effra-Heavy.ttf</string>
-		<string>Effra-HeavyItalic.ttf</string>
-		<string>Effra-Italic.ttf</string>
-		<string>Effra-Light.ttf</string>
-		<string>Effra-LightItalic.ttf</string>
-		<string>Effra-Medium.ttf</string>
-		<string>Effra-MediumItalic.ttf</string>
-		<string>Effra-Regular.ttf</string>
-		<string>Vinchand-Regular.otf</string>
+		<string>Soleil-Bold-Italic.ttf</string>
+		<string>Soleil-Bold.otf</string>
+		<string>Soleil-Light-Italic.ttf</string>
+		<string>Soleil-Light.otf</string>
 	</array>
 	<key>CFBundleURLTypes</key>
 	<array>
