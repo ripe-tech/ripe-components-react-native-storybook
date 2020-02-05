@@ -42,10 +42,6 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "ripe-components-react-native-storybook/main.m"; sourceTree = "<group>"; };
 		13E10C7B35775C5825CB0AE1 /* Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; sourceTree = "<group>"; };
 		1492453DAD410F095AB422CA /* Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; sourceTree = "<group>"; };
-		4E9AB32623EB3CAB003F2A57 /* Soleil-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Bold.otf"; path = "../assets/fonts/Soleil-Bold.otf"; sourceTree = "<group>"; };
-		4E9AB32723EB3CAB003F2A57 /* Soleil-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Light.otf"; path = "../assets/fonts/Soleil-Light.otf"; sourceTree = "<group>"; };
-		4E9AB32823EB3CAB003F2A57 /* Soleil-Bold-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Bold-Italic.ttf"; path = "../assets/fonts/Soleil-Bold-Italic.ttf"; sourceTree = "<group>"; };
-		4E9AB32923EB3CAB003F2A57 /* Soleil-Light-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Light-Italic.ttf"; path = "../assets/fonts/Soleil-Light-Italic.ttf"; sourceTree = "<group>"; };
 		7939965EF52E66ECA48B6973 /* Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; sourceTree = "<group>"; };
 		8F8D03A69ECF0BD10F4F8C8A /* Pods-ripe-components-react-native-storybook.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook.debug.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook/Pods-ripe-components-react-native-storybook.debug.xcconfig"; sourceTree = "<group>"; };
 		92C564B30EBA5D18E8666C07 /* Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook-tvOSTests/Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -54,6 +50,12 @@
 		A7649EDA279B7B3E5164E5A6 /* Pods-ripe-components-react-native-storybook-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook-tvOS.release.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook-tvOS/Pods-ripe-components-react-native-storybook-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		AF6A7868984B5A72CAE88F2D /* Pods-ripeComponentsReactNativeStorybook.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybook.release.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybook/Pods-ripeComponentsReactNativeStorybook.release.xcconfig"; sourceTree = "<group>"; };
 		B6700984955DF198756EF571 /* Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; sourceTree = "<group>"; };
+		C238F75423EB59EE00B8FF2D /* Soleil-Bold-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Bold-Italic.ttf"; path = "../assets/fonts/Soleil-Bold-Italic.ttf"; sourceTree = "<group>"; };
+		C238F75523EB59EE00B8FF2D /* Soleil-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Bold.ttf"; path = "../assets/fonts/Soleil-Bold.ttf"; sourceTree = "<group>"; };
+		C238F75623EB59EE00B8FF2D /* Soleil-Book.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Book.ttf"; path = "../assets/fonts/Soleil-Book.ttf"; sourceTree = "<group>"; };
+		C238F75723EB59EE00B8FF2D /* Soleil-Light-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Light-Italic.ttf"; path = "../assets/fonts/Soleil-Light-Italic.ttf"; sourceTree = "<group>"; };
+		C238F75823EB59EF00B8FF2D /* Soleil-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Light.ttf"; path = "../assets/fonts/Soleil-Light.ttf"; sourceTree = "<group>"; };
+		C238F75923EB59EF00B8FF2D /* Soleil-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Soleil-Regular.ttf"; path = "../assets/fonts/Soleil-Regular.ttf"; sourceTree = "<group>"; };
 		DE58993AB8D493FEB8EB5618 /* libPods-ripeComponentsReactNativeStorybook.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ripeComponentsReactNativeStorybook.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2374381C88171FFE393E58C /* libPods-ripe-components-react-native-storybook-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ripe-components-react-native-storybook-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -128,10 +130,12 @@
 		515CBCB2D5EE4BD4AAE521A6 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				4E9AB32823EB3CAB003F2A57 /* Soleil-Bold-Italic.ttf */,
-				4E9AB32623EB3CAB003F2A57 /* Soleil-Bold.otf */,
-				4E9AB32923EB3CAB003F2A57 /* Soleil-Light-Italic.ttf */,
-				4E9AB32723EB3CAB003F2A57 /* Soleil-Light.otf */,
+				C238F75423EB59EE00B8FF2D /* Soleil-Bold-Italic.ttf */,
+				C238F75523EB59EE00B8FF2D /* Soleil-Bold.ttf */,
+				C238F75623EB59EE00B8FF2D /* Soleil-Book.ttf */,
+				C238F75723EB59EE00B8FF2D /* Soleil-Light-Italic.ttf */,
+				C238F75823EB59EF00B8FF2D /* Soleil-Light.ttf */,
+				C238F75923EB59EF00B8FF2D /* Soleil-Regular.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
