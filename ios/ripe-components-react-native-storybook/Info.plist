@@ -55,10 +55,12 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>Soleil-Bold-Italic.ttf</string>
-		<string>Soleil-Bold.otf</string>
+		<string>Soleil-Light.ttf</string>
 		<string>Soleil-Light-Italic.ttf</string>
-		<string>Soleil-Light.otf</string>
+		<string>Soleil-Regular.ttf</string>
+		<string>Soleil-Book.ttf</string>
+		<string>Soleil-Bold.ttf</string>
+		<string>Soleil-Bold-Italic.ttf</string>
 	</array>
 	<key>CFBundleURLTypes</key>
 	<array>
