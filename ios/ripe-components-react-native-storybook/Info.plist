@@ -62,14 +62,5 @@
 		<string>Soleil-Bold.ttf</string>
 		<string>Soleil-Bold-Italic.ttf</string>
 	</array>
-	<key>CFBundleURLTypes</key>
-	<array>
-		<dict>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>fb877312005714206</string>
-			</array>
-		</dict>
-	</array>
 </dict>
 </plist>
