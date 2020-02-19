@@ -1,4 +1,4 @@
-import { Platform } from "react-native";
+import { Platform, UIManager } from "react-native";
 
 if (Platform.OS === "android") {
     if (UIManager.setLayoutAnimationEnabledExperimental) {
