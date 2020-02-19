@@ -7,6 +7,7 @@
         "start": "react-native start",
         "android": "react-native run-android",
         "android-release": "react-native run-android --variant=release",
+        "clear": "react-native start --reset-cache",
         "ios": "react-native run-ios",
         "link": "react-native link",
         "test": "jest",
