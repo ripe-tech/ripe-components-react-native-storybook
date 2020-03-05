@@ -9,10 +9,7 @@ configure(() => {
 }, module);
 
 const StorybookUIRoot = getStorybookUI({
-    asyncStorage:
-        require("@react-native-community/async-storage").AsyncStorage ||
-        require("react-native").AsyncStorage ||
-        null
+    asyncStorage: require("@react-native-community/async-storage").AsyncStorage || null
 });
 AppRegistry.registerComponent("RIPE Components React Native", () => StorybookUIRoot);
 
