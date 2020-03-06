@@ -33,9 +33,5 @@ target 'ripeComponentsReactNativeStorybook' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'ripeComponentsReactNativeStorybookTests' do
-    inherit! :search_paths
-  end
-
   use_native_modules!
 end
