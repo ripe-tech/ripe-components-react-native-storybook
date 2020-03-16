@@ -20,6 +20,9 @@ module.exports = {
             }
         ],
         "no-alert": "off",
-        "react-native/no-inline-styles": "off"
+        "react-native/no-inline-styles": "off",
+        "react/no-did-mount-set-state": "off",
+        "react/no-did-update-set-state": "off",
+        curly: "off"
     }
 };
