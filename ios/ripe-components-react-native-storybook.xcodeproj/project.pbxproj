@@ -12,7 +12,7 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		778DA82106C5561FD67A2B5E /* libPods-ripeComponentsReactNativeStorybookTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 091504F64F02DD6A55E225D5 /* libPods-ripeComponentsReactNativeStorybookTests.a */; };
+		8265B0054F1DEFEDF635E0D6 /* libPods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BB7215CDBB4D9CE9793FBE0 /* libPods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.a */; };
 		C2D5260323EB5ECC00DFAE14 /* Soleil-Bold-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75423EB59EE00B8FF2D /* Soleil-Bold-Italic.ttf */; };
 		C2D5260423EB5ECC00DFAE14 /* Soleil-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75523EB59EE00B8FF2D /* Soleil-Bold.ttf */; };
 		C2D5260523EB5ECC00DFAE14 /* Soleil-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C238F75623EB59EE00B8FF2D /* Soleil-Book.ttf */; };
@@ -37,7 +37,7 @@
 		00E356EE1AD99517003FC87E /* ripeComponentsReactNativeStorybookTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ripeComponentsReactNativeStorybookTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* ripeComponentsReactNativeStorybookTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ripeComponentsReactNativeStorybookTests.m; sourceTree = "<group>"; };
-		091504F64F02DD6A55E225D5 /* libPods-ripeComponentsReactNativeStorybookTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ripeComponentsReactNativeStorybookTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0816BD0D403A3AD3D29E08D1 /* Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.release.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.release.xcconfig"; sourceTree = "<group>"; };
 		0E2522F605E300D36A32A019 /* Pods-ripe-components-react-native-storybook.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook.release.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook/Pods-ripe-components-react-native-storybook.release.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* ripe-components-react-native-storybook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ripe-components-react-native-storybook.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "ripe-components-react-native-storybook/AppDelegate.h"; sourceTree = "<group>"; };
@@ -48,6 +48,8 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "ripe-components-react-native-storybook/main.m"; sourceTree = "<group>"; };
 		13E10C7B35775C5825CB0AE1 /* Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; sourceTree = "<group>"; };
 		1492453DAD410F095AB422CA /* Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; sourceTree = "<group>"; };
+		224032F61BE54783F256B7A7 /* Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4BB7215CDBB4D9CE9793FBE0 /* libPods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7939965EF52E66ECA48B6973 /* Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; path = "Target Support Files/Pods-ripeComponentsReactNativeStorybookTests/Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig"; sourceTree = "<group>"; };
 		8F8D03A69ECF0BD10F4F8C8A /* Pods-ripe-components-react-native-storybook.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook.debug.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook/Pods-ripe-components-react-native-storybook.debug.xcconfig"; sourceTree = "<group>"; };
 		92C564B30EBA5D18E8666C07 /* Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-ripe-components-react-native-storybook-tvOSTests/Pods-ripe-components-react-native-storybook-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -74,7 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				778DA82106C5561FD67A2B5E /* libPods-ripeComponentsReactNativeStorybookTests.a in Frameworks */,
+				8265B0054F1DEFEDF635E0D6 /* libPods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -127,8 +129,8 @@
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
 				E2374381C88171FFE393E58C /* libPods-ripe-components-react-native-storybook-tvOS.a */,
 				9F12E115C363B3A84E12556A /* libPods-ripe-components-react-native-storybook-tvOSTests.a */,
-				091504F64F02DD6A55E225D5 /* libPods-ripeComponentsReactNativeStorybookTests.a */,
 				DE58993AB8D493FEB8EB5618 /* libPods-ripeComponentsReactNativeStorybook.a */,
+				4BB7215CDBB4D9CE9793FBE0 /* libPods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -160,6 +162,8 @@
 				AF6A7868984B5A72CAE88F2D /* Pods-ripeComponentsReactNativeStorybook.release.xcconfig */,
 				13E10C7B35775C5825CB0AE1 /* Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig */,
 				7939965EF52E66ECA48B6973 /* Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig */,
+				224032F61BE54783F256B7A7 /* Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.debug.xcconfig */,
+				0816BD0D403A3AD3D29E08D1 /* Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -311,7 +315,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
 		20B3010CCFEF011B1B2E2034 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -328,7 +332,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ripeComponentsReactNativeStorybookTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -421,7 +425,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 13E10C7B35775C5825CB0AE1 /* Pods-ripeComponentsReactNativeStorybookTests.debug.xcconfig */;
+			baseConfigurationReference = 224032F61BE54783F256B7A7 /* Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -444,7 +448,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7939965EF52E66ECA48B6973 /* Pods-ripeComponentsReactNativeStorybookTests.release.xcconfig */;
+			baseConfigurationReference = 0816BD0D403A3AD3D29E08D1 /* Pods-ripeComponentsReactNativeStorybook-ripeComponentsReactNativeStorybookTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -468,7 +472,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				DEAD_CODE_STRIPPING = NO;
+				DEAD_CODE_STRIPPING = YES;
+				ENABLE_BITCODE = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"COCOAPODS=1",
+					"FB_SONARKIT_ENABLED=1",
+				);
 				INFOPLIST_FILE = "ripe-components-react-native-storybook/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -549,6 +559,12 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "/usr/lib/swift $(inherited)";
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -596,6 +612,12 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "/usr/lib/swift $(inherited)";
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
