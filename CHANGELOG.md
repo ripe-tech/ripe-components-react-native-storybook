@@ -14,8 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 * Bump dependencies
+* Bumped SDK version for Android
 
 ### Fixed
 
 * Added missing dependencies
 * Bump iOS platform version
+* Fix NDK setup for Android
