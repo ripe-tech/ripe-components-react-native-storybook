@@ -23,3 +23,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Bump iOS platform version
 * Fix NDK setup for Android
 * Add missing support for svga bundle assets
+* Fix missing ignore in `.eslintignore` file
