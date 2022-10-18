@@ -15,9 +15,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * Bump dependencies
 * Bumped SDK version for Android
+* Bump react native to 0.68.3 and respective dependencies
 
 ### Fixed
 
 * Added missing dependencies
 * Bump iOS platform version
 * Fix NDK setup for Android
+* Add missing support for svga bundle assets
