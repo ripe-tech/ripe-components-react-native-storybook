@@ -1,6 +1,6 @@
 const { getDefaultConfig } = require("metro-config");
 
-module.exports = (async () => {
+const config = (async () => {
     const {
         resolver: { assetExts }
     } = await getDefaultConfig();
@@ -18,3 +18,5 @@ module.exports = (async () => {
         }
     };
 })();
+
+module.exports = config;
