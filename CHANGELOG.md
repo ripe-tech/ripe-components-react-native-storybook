@@ -25,4 +25,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Add missing support for svga bundle assets
 * Fix missing ignore in `.eslintignore` file
 * Fix project compilation error - [#30](https://github.com/ripe-tech/ripe-components-react-native-storybook/issues/30)
-* Fix button keyboard Buffer error problem - [#30](https://github.com/ripe-tech/ripe-components-react-native-storybook/issues/30)
+* Fix button keyboard Buffer error problem - [ripe-robin-revamp/#481](https://github.com/ripe-tech/ripe-robin-revamp/issues/481)
